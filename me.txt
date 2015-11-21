@@ -1,0 +1,3 @@
+I am sitting here.
+I am learning about git.
+I am drinking luke warm tea.
